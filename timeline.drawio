@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-23T14:02:57.124Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0" etag="IM1QF7MYcdV84FEJrnO1" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-23T14:11:43.310Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0" etag="xxZKXa-vcF-oNEVohG7X" version="12.4.3" type="github" pages="1">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1355" dy="1579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -36,6 +36,9 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
+        <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-68" value="Dead" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="2">
+          <mxGeometry x="30" y="2120" width="95" height="40" as="geometry"/>
+        </mxCell>
         <mxCell id="3" value="1953" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="440" y="-600" width="240" height="2200" as="geometry"/>
         </mxCell>
@@ -59,6 +62,31 @@
         </mxCell>
         <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-44" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Ulrich meets HG Tannenbaum&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=18;" vertex="1" parent="3">
           <mxGeometry x="50" y="970" width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-61" value="" style="endArrow=classic;html=1;strokeColor=#00994D;fontSize=18;strokeWidth=2;" edge="1" parent="3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="250" as="sourcePoint"/>
+            <mxPoint x="40" y="550" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="40" y="400"/>
+              <mxPoint x="600" y="400"/>
+              <mxPoint x="600" y="440"/>
+              <mxPoint x="40" y="440"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-65" value="Dead" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="3">
+          <mxGeometry x="110" y="2000" width="95" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-67" value="" style="endArrow=classic;html=1;strokeColor=#00994D;strokeWidth=2;fontSize=18;" edge="1" parent="3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="44.5" y="1760" as="sourcePoint"/>
+            <mxPoint x="-160" y="2120" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="45" y="2040"/>
+              <mxPoint x="-160" y="2040"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4" value="1986" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="680" y="-600" width="250" height="2200" as="geometry"/>
@@ -103,6 +131,12 @@
             <mxPoint x="80" y="1700" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
+        <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-60" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Car crash between&lt;br&gt;Adult Helge and Old Helge&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=18;" vertex="1" parent="4">
+          <mxGeometry x="40" y="2070" width="180" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-64" value="Dead" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="4">
+          <mxGeometry x="77.5" y="2150" width="95" height="40" as="geometry"/>
+        </mxCell>
         <mxCell id="G8Sm1e-z4Jg3wYjVNRuD-47" value="2052" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="1160" y="-600" width="240" height="2200" as="geometry"/>
         </mxCell>
@@ -144,7 +178,7 @@
           <mxGeometry x="30" y="40" width="100" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-56" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Machine&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="G8Sm1e-z4Jg3wYjVNRuD-47">
-          <mxGeometry x="90" y="750" width="90" height="20" as="geometry"/>
+          <mxGeometry x="75" y="720" width="90" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="G8Sm1e-z4Jg3wYjVNRuD-41" value="2019" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="930" y="-600" width="230" height="2200" as="geometry"/>
@@ -196,7 +230,7 @@
         </mxCell>
         <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-18" value="Hannah" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontSize=18;" vertex="1" connectable="0" parent="4Fx-l3T1AfS1Zk8Yr6ho-17">
           <mxGeometry x="-0.8667" y="1" relative="1" as="geometry">
-            <mxPoint x="33" y="-81" as="offset"/>
+            <mxPoint x="33" y="-66" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-21" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Noah meets Elisabeth&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=18;" vertex="1" parent="G8Sm1e-z4Jg3wYjVNRuD-41">
@@ -249,6 +283,19 @@
         </mxCell>
         <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-55" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Jonas takes Mikkel&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=18;" vertex="1" parent="G8Sm1e-z4Jg3wYjVNRuD-41">
           <mxGeometry x="70" y="602" width="130" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-58" value="" style="endArrow=classic;html=1;strokeColor=#0000CC;fontSize=18;" edge="1" parent="G8Sm1e-z4Jg3wYjVNRuD-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="2000" as="sourcePoint"/>
+            <mxPoint x="-130" y="2150" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="70" y="2040"/>
+              <mxPoint x="-130" y="2040"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-63" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Noah meets Elisabeth&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=18;" vertex="1" parent="G8Sm1e-z4Jg3wYjVNRuD-41">
+          <mxGeometry x="80" y="400" width="150" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-6" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -304,6 +351,18 @@
         </mxCell>
         <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-48" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Old Ulrich sees Martha, Bartoz,&lt;br&gt;Franziska, Magnus and Elisabeth&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="704" y="990" width="220" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-59" value="Old Helge" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="955" y="1371" width="110" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-62" value="Adult Noah" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="459" y="-399" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-66" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Old Claudia meets Noah&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="496" y="1324" width="170" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="4Fx-l3T1AfS1Zk8Yr6ho-69" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Noah meets Agnes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="256" y="1469" width="130" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
